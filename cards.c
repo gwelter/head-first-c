@@ -19,7 +19,11 @@ int main() {
     val = atoi(card_name);
   }
 
-  printf("The card value is %d\n", val);
+  if (val >= 3 && val <= 6) {
+    puts("Count has hone up");
+  } else if (val >= 10) {
+    puts("Count has gone down");
+  }
 
   return 0;
 }
