@@ -1,29 +1,7 @@
-{
-  "data": [
-    {
-      "latitude": 42.3634,
-      "longitude": -71.098465,
-      "info": "Speed: 21"
-    },
-    {
-      "latitude": 41.3634,
-      "longitude": -72.098465,
-      "info": "Speed: 23"
-    },
-    {
-      "latitude": 40.3634,
-      "longitude": -73.098465,
-      "info": "Speed: 17"
-    },
-    {
-      "latitude": 47.3634,
-      "longitude": -74.098465,
-      "info": "Speed: 22"
-    },
-    {
-      "latitude": 49.3634,
-      "longitude": -75.098465,
-      "info": "Speed: 20"
-    }
-  ]
-}
+{"data":[
+{"latitude": 42.363400, "longitude": -71.098465, "info": "Speed: 21"},
+{"latitude": 41.363400, "longitude": -72.098465, "info": "Speed: 23"},
+{"latitude": 40.363400, "longitude": -73.098465, "info": "Speed: 17"},
+{"latitude": 47.363400, "longitude": -74.098465, "info": "Speed: 22"},
+{"latitude": 49.363400, "longitude": -75.098465, "info": "Speed: 20"}
+]}
